@@ -4,3 +4,6 @@ hi i am learning git bash
 
 Now i want to change this file
 
+we need to change the "first_repo" to "third_repo"
+
+
