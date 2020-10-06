@@ -1,4 +1,6 @@
 hello
 
-hi i am learning git bash
+hi i am learning git bash 
+
+Now i want to change this file
 
